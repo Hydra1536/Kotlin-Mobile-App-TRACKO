@@ -1,6 +1,5 @@
 # Permissions Score
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://developer.android.com)
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple.svg)](https://kotlinlang.org)
 [![Compose](https://img.shields.io/badge/UI-Compose-orange.svg)](https://developer.android.com/jetpack/compose)
@@ -199,11 +198,8 @@ This application was developed as part of a Thesis Project by:
 
 ### Acknowledgments
 - Special thanks to academic advisors and contributors
-- Built with ❤️ for enhancing Android device security
+- Built for enhancing Android device security
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
